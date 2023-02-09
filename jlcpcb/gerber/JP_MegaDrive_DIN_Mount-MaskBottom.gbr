@@ -1,0 +1,28 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2023-01-27T12:27:14-07:00*%
+%TF.ProjectId,JP_MegaDrive_DIN_Mount,4a505f4d-6567-4614-9472-6976655f4449,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2023-01-27 12:27:14*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,4.700000X7.000000*%
+%ADD11O,7.000000X4.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H1*%
+X132080000Y-111125000D03*
+%TD*%
+D11*
+%TO.C,H2*%
+X132080000Y-119380000D03*
+%TD*%
+%TO.C,H3*%
+X132080000Y-102997000D03*
+%TD*%
+M02*

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TG16_RF_DIN-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/TG16_RF_DIN-eagle-import.kicad_sym")(options "")(descr ""))
+)
